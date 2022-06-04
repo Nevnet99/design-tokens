@@ -11,10 +11,6 @@
     "tertiary": {
       "value": "#FFF",
       "type": "other"
-    },
-    "sm": {
-      "value": "10px",
-      "type": "sizing"
     }
   },
   "sizing": {
