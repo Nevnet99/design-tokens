@@ -1,5 +1,5 @@
 {
-  "Spacing": {
+  "spacing": {
     "sm": {
       "value": "10px",
       "type": "spacing"
@@ -13,7 +13,7 @@
       "type": "spacing"
     }
   },
-  "Color": {
+  "color": {
     "main": {
       "value": "#FFF",
       "type": "color"
