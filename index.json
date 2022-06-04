@@ -17,5 +17,11 @@
       "type": "sizing"
     }
   },
+  "sizing": {
+    "sm": {
+      "value": "10px",
+      "type": "sizing"
+    }
+  },
   "$themes": []
 }
