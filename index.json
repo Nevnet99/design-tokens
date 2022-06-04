@@ -1,7 +1,21 @@
 {
-    "colors": {
-        "main": "#FFF",
-        "secondary": "#FFF",
-        "tertiary": "#FFF"
+  "colors": {
+    "main": {
+      "value": "#FFF",
+      "type": "other"
+    },
+    "secondary": {
+      "value": "#FFF",
+      "type": "other"
+    },
+    "tertiary": {
+      "value": "#FFF",
+      "type": "other"
+    },
+    "sm": {
+      "value": "10px",
+      "type": "sizing"
     }
+  },
+  "$themes": []
 }
