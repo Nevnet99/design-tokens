@@ -2,29 +2,29 @@
   "Spacing": {
     "sm": {
       "value": "10px",
-      "type": "Spacing"
+      "type": "spacing"
     },
     "md": {
       "value": "20px",
-      "type": "Spacing"
+      "type": "spacing"
     },
     "lg": {
       "value": "30px",
-      "type": "Spacing"
+      "type": "spacing"
     }
   },
   "Color": {
     "main": {
       "value": "#FFF",
-      "type": "Color"
+      "type": "color"
     },
     "secondary": {
       "value": "#FFF",
-      "type": "Color"
+      "type": "color"
     },
     "tertiary": {
       "value": "#FFF",
-      "type": "Color"
+      "type": "color"
     }
   },
   "$themes": []
