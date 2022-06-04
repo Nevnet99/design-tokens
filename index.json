@@ -1,22 +1,30 @@
 {
-  "colors": {
+  "Spacing": {
+    "sm": {
+      "value": "10px",
+      "type": "Spacing"
+    },
+    "md": {
+      "value": "20px",
+      "type": "Spacing"
+    },
+    "lg": {
+      "value": "30px",
+      "type": "Spacing"
+    }
+  },
+  "Color": {
     "main": {
       "value": "#FFF",
-      "type": "other"
+      "type": "Color"
     },
     "secondary": {
       "value": "#FFF",
-      "type": "other"
+      "type": "Color"
     },
     "tertiary": {
       "value": "#FFF",
-      "type": "other"
-    }
-  },
-  "sizing": {
-    "sm": {
-      "value": "10px",
-      "type": "sizing"
+      "type": "Color"
     }
   },
   "$themes": []
